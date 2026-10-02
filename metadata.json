@@ -1,0 +1,6 @@
+{
+  "name": "Explosão Modas | Moda Feminina e Masculina em Uberaba",
+  "description": "Conheça a Explosão Modas em Uberaba. Confira novidades, categorias de produtos e fale conosco pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
